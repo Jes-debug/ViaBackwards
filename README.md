@@ -41,7 +41,7 @@ Other Links
 -
 **Maven:** https://repo.viaversion.com
 
-**List of contributors:** https://github.com/ViaVersion/ViaBackwards/graphs/contributors
+**List of contributors:** [https://github.com/ViaVersion/ViaBackwards/graphs/contributors](https://github.com/Jes-debug/ViaBackwards/graphs/contributors)
 
 Building
 -
