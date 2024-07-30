@@ -21,7 +21,7 @@ You can find releases in the following places:
 
 - **Hangar (for our plugins)**: https://hangar.papermc.io/ViaVersion/ViaBackwards
 - **Modrinth (for our mods)**: https://modrinth.com/mod/viabackwards
-- **GitHub**: https://github.com/ViaVersion/ViaBackwards/releases
+- **GitHub**: [https://github.com/ViaVersion/ViaBackwards/releases](https://github.com/Jes-debug/ViaBackwards/releases)
 
 Dev builds for **all** of our projects are on our Jenkins server:
 
