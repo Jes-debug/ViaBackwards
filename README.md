@@ -1,4 +1,4 @@
-# ViaBackwards
+# ViaBackwardsFix
 **IMPORTANT! This is a fork of ViaBackwards to specifically resolve the temporary issue where clients 1.20.2-1.21.4 cannot join 1.21.5 servers.**
 [![Latest Release](https://img.shields.io/github/v/release/ViaVersion/ViaBackwards)](https://github.com/Jes-debug/ViaBackwards/releases)
 [![Build Status](https://github.com/ViaVersion/ViaBackwards/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/ViaVersion/ViaBackwards/actions)
@@ -10,10 +10,12 @@ Requires [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) to be ins
 
 Supported Versions
 -
-As a plugin, ViaBackwards runs on servers on releases 1.10-latest. Versions from the dev branch will also support the
-latest snapshot. You can also use ViaBackwards in ViaFabric or ViaFabricPlus.
+As a plugin, ViaBackwardsFix runs on servers on release 1.21.5 only. [For other versions please see the original [ViaBackwards](https://github.com/ViaVersion/ViaBackwards)] Versions from the dev branch will also support the latest snapshot. You can also use ViaBackwards in ViaFabric or ViaFabricPlus.
 
 See [HERE](https://github.com/ViaVersion) for an overview of the different Via* projects.
+
+**Official ViaBackwards README**
+Everything below is from the official [ViaBackwards](https://github.com/ViaVersion/ViaBackwards) left unchanged.
 
 Releases/Dev Builds
 -
