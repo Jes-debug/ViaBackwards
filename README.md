@@ -1,9 +1,8 @@
 # ViaBackwardsFix
 **IMPORTANT! This is a fork of ViaBackwards to specifically resolve the temporary issue where clients 1.20.2-1.21.4 cannot join 1.21.5 servers.**
 
-[![Latest Release](https://img.shields.io/github/v/release/ViaVersion/ViaBackwards)](https://github.com/Jes-debug/ViaBackwards/releases)
-[![Build Status](https://github.com/ViaVersion/ViaBackwards/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/ViaVersion/ViaBackwards/actions)
-[![Discord](https://img.shields.io/badge/chat-on%20discord-blue.svg)](https://viaversion.com/discord)
+[![Latest Release](https://img.shields.io/github/v/release/Jes-debug/ViaBackwardsFix)](https://github.com/Jes-debug/ViaBackwardsFix/releases)
+[![Build Status](https://github.com/Jes-debug/ViaBackwardsFix/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/Jes-debug/ViaBackwardsFix/actions)
 
 **Allows older Minecraft client versions to connect to newer server versions.**
 
@@ -11,7 +10,7 @@ Requires [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) to be ins
 
 Supported Versions
 -
-As a plugin, ViaBackwardsFix runs on servers on release 1.21.5 only. [For other versions please see the original [ViaBackwards](https://github.com/ViaVersion/ViaBackwards)] Versions from the dev branch will also support the latest snapshot. You can also use ViaBackwards in ViaFabric or ViaFabricPlus.
+As a plugin, ViaBackwardsFix runs on servers on releases 1.10-latest. Although, ViaBackwardsFix was mainly made to fix the issue in 1.21.5 but will still support other versions. Versions from the dev branch will also support the latest snapshot. You can also use ViaBackwards in ViaFabric or ViaFabricPlus.
 
 See [HERE](https://github.com/ViaVersion) for an overview of the different Via* projects.
 
