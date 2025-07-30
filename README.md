@@ -2,7 +2,7 @@
 **IMPORTANT! This is a fork of ViaBackwards to specifically resolve the temporary issue where clients 1.20.2-1.21.4 cannot join 1.21.5 servers.**
 
 [![Latest Release](https://img.shields.io/github/v/release/Jes-debug/ViaBackwardsFix)](https://github.com/Jes-debug/ViaBackwardsFix/releases)
-[![Build Status](https://github.com/Jes-debug/ViaBackwardsFix/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/Jes-debug/ViaBackwardsFix/actions)
+[![Build Status](https://github.com/ViaVersion/ViaBackwards/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Jes-debug/ViaBackwardsFix/actions)
 
 **Allows older Minecraft client versions to connect to newer server versions.**
 
