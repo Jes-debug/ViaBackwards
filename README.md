@@ -1,5 +1,5 @@
 # ViaBackwards
-**IMPORTANT! This is a fork of ViaBackwards to specifically let clients below 1.21.5 to join 1.21.5 servers.**
+**IMPORTANT! This is a fork of ViaBackwards to specifically resolve the temporary issue where clients 1.20.2-1.21.4 cannot join 1.21.5 servers.**
 [![Latest Release](https://img.shields.io/github/v/release/ViaVersion/ViaBackwards)](https://github.com/Jes-debug/ViaBackwards/releases)
 [![Build Status](https://github.com/ViaVersion/ViaBackwards/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/ViaVersion/ViaBackwards/actions)
 [![Discord](https://img.shields.io/badge/chat-on%20discord-blue.svg)](https://viaversion.com/discord)
